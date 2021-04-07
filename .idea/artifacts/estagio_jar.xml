@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="estagio:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/estagio_jar</output-path>
+    <root id="archive" name="estagio.jar">
+      <element id="module-output" name="estagio" />
+    </root>
+  </artifact>
+</component>
